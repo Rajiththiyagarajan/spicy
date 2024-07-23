@@ -9,7 +9,7 @@ import HeadAdmin from './HeadAdmin.png'
 import parc from './parc.gif'
 import upload from './upload.gif'
 
-export const url = 'http://localhost:4000'
+export const url = 'https://spicy-backend-mjdy.onrender.com'
 export const currency = '₹'
 
 export const assets ={
